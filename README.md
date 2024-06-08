@@ -21,4 +21,5 @@ git push
 
 git pull
 
+git branch [branch_name] Create new branch, referencing the current HEAD.
 

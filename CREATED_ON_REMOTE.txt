@@ -1,12 +1,8 @@
+
 This
-Permission denied (publickey
- file will
-kdkfjerjfjuewjfe
-llaljfhweio
-jbshjioferij
-Permission denied (publickey
+Permission
+This file 
+will contain instructions 
+ssh-keygen -t rsa -b 4096 -C "your_email@example.co
+hewre
 
- contain instructions how
-
-ssh -T git@github.com
- to set up SSH keys
