@@ -1,1 +1,12 @@
-This file will contain instructions how to set up SSH keys
+This
+Permission denied (publickey
+ file will
+kdkfjerjfjuewjfe
+llaljfhweio
+jbshjioferij
+Permission denied (publickey
+
+ contain instructions how
+
+ssh -T git@github.com
+ to set up SSH keys
