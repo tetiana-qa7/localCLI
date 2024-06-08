@@ -1,1 +1,7 @@
-This file will contain instructions how to set up SSH keys
+This file 
+will contain instructions 
+ssh-keygen -t rsa -b 4096 -C "your_email@example.co
+how to set up SSH keys
+eval "$(ssh-agent -s)" and ssh-add ~/.ssh/id_rsa
+23i843
+
